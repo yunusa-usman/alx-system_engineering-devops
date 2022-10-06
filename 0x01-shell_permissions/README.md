@@ -1,1 +1,1 @@
-New owner task
+Empty task
