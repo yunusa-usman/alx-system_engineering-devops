@@ -1,0 +1,17 @@
+total 40
+drwxr-xr-x 2 root root 312 Oct 10 02:12 .
+drwxr-xr-x 6 root root 121 Oct 10 00:53 ..
+-rwxr--r-- 1 root root  37 Oct 10 00:56 0-hello_world
+-rw-r--r-- 1 root root   0 Oct 10 01:34 10-no_more_js
+-rwxr-xr-x 1 root root  30 Oct 10 01:18 1-confused_smiley
+-rwxr--r-- 1 root root  28 Oct 10 01:22 2-hellofile
+-rwxr-xr-x 1 root root  39 Oct 10 01:25 3-twofiles
+-rwxr-xr-x 1 root root  35 Oct 10 01:30 4-lastlines
+-rwxr-xr-x 1 root root  35 Oct 10 01:32 5-firstlines
+-rwxr-xr-x 1 root root  40 Oct 10 01:47 6-third_line
+-rwxr-xr-x 1 root root  99 Oct 10 02:11 7-file
+-rwxr-xr-x 1 root root  34 Oct 10 01:54 8-cwd_state
+-rw-r--r-- 1 root root   0 Oct 10 01:34 9-duplicate_last_line
+-rw-r--r-- 1 root root  12 Oct 10 02:11 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   0 Oct 10 01:56 iacta
+-rw-r--r-- 1 root root   0 Oct 10 02:14 ls_cwd_content
